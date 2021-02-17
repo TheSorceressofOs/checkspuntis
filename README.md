@@ -4,7 +4,7 @@ This short script uses w3m and various (GNU) utilities to notify you about your 
 
 ## Requirements
 
-+ an UNTIS substitution plan in the right format
++ an Untis substitution plan in the right format
 + [w3m](http://w3m.sourceforge.net/)
 + (GNU) utilities
 
