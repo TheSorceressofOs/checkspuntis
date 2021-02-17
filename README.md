@@ -6,7 +6,7 @@ This short script uses w3m and various (GNU) utilities to notify you about your 
 
 + an UNTIS substitution plan in the right format
 + [w3m](http://w3m.sourceforge.net/)
-+ (GNU) utilitis
++ (GNU) utilities
 
 ## Usage
 
