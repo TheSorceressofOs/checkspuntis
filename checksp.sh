@@ -1,4 +1,4 @@
-# script for checking an UNTIS substitution plan, using w3m and various (GNU) utilities (requires fitting plan format)
+# script for checking an Untis substitution plan, using w3m and various (GNU) utilities (requires fitting plan format)
 # (could be used for e.g. as a cronjob)
 
 # LINKTOPLAN = use the direct link to the plan (ends on .htm)
