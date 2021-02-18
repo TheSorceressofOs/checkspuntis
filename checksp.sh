@@ -2,6 +2,7 @@
 # (could be used for e.g. as a cronjob)
 
 # LINKTOPLAN = use the direct link to the plan (ends on .htm)
+# if your sp is embedded, use the right-click menu option 'This Frame > open frame in new tab' on the plan and copy the link (firefox)
 # CLASS = your class
 sp=$(w3m LINKTOPLAN | grep -A 1 CLASS | awk '{print $2, $3}' | grep -)&&
 
